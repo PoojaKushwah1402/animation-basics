@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import './animation.css';
-import Todo from './components/index'
+import Todo from './components/reactAnimation/index'
 
 function App() {
   return (
