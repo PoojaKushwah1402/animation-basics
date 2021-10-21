@@ -1,0 +1,10 @@
+.animation-box{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: rgb(186, 206, 243);
+    box-shadow: 10px 10px 8px white;
+}
